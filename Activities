@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- Meta tags for search engines to crawl -->
+    <meta name="robots" content="index,follow">
+    <meta name="keywords" content="Ji Wang; 王骥; Central China Normal University; Beijing University of Posts and Telecommunications;">
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+
+    <title>Ji Wang - Activities</title>
+    <link href="./mystyle.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+    <div class="block block-border">
+        <h2>
+            <a href="./index.html">Home</a>&nbsp;&middot;
+            <!--<a href="./news.html">News</a>&nbsp;&middot;-->
+            <!--<a href="./research.html">Research</a>&nbsp;&middot;-->
+            <!--<a href="./team.html">Team</a>&nbsp;&middot;-->
+            <a href="./publications.html">Services</a>&nbsp;&middot;
+            <a href="./activities.html">Activities</a>&nbsp;&middot;
+        </h2>
+    </div>
+    
+    <div class="block block-border">
+        <h2 style="color: #047eb0;">Membership</h2>       
+        <ul>
+        <li class="paper">
+            IEEE Senior Member
+        </li>
+        <li class="paper">
+            湖北省通信学会第三届信息通信专家委员会专家
+        </li>
+            
+    </div>
+        <div class="block block-border">
+        <h2 style="color: #047eb0;">Associate Editor</h2>       
+        <ul>
+        <li class="paper">
+            KSII Transactions on Internet and Information Systems
+        </li>
+        <li class="paper">
+            Electronics (Special Issue：Physical Layer Innovations for 6G Space-Air-Ground Integrated Networks)
+        </li>
+        <li class="paper">
+            数据采集与处理
+        </li>
+        <li class="paper">
+            无线电工程
+        </li>
+    </div>
+
+
+    <div class="block block-border">
+        <h2 style="color: #047eb0;">Session Chair</h2>       
+        <ul>
+            <li class="paper">
+              ICCES 2024, Chair for S13: Recent Advances, Techniques and Challenges for Internet of Everything in the 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES 2024) 
+            </li>
+        <li class="paper">
+            WF-PST 2024, Workshop: Recent Advances and Challenges of Satellite and Aerial Communication Networks, 2024 IEEE World Forum on Public Safety Technology (WF-PST 2024)
+        </li>
+        <li class="paper">
+            IET ICCTA 2011, Session D: Cognitive Radio，IET International Conference on Communication Technology and Application (ICCTA 2011)  
+        </li>
+        </ul>
+    </div>
+    
+
+    
+    <div class="block block-border">
+        <h2 style="color: #047eb0;">TPC Member</h2>       
+        <ul>
+            <li class="paper">
+                IEEE Global Communications Conference (GLOBECOM) Workshop 2024
+            </li>
+            <li class="paper">
+                 IEEE Global Communications Conference (GLOBECOM) Workshop 2023
+            </li>
+            <li class="paper">
+                 IEEE International Conference on Communication Technology (ICCT) 2023
+            </li>
+        </ul>
+    </div>
+
+    <div class="block block-border">
+        <h2 style="color: #047eb0;">Journal Reviewer</h2>       
+        <ul>
+            <li class="paper">
+                IEEE Transactions on Wireless Communications
+            </li>
+            <li class="paper">
+                IEEE Transactions on Vehicular Technology
+            </li>
+            <li class="paper">
+                IEEE Transactions on Cognitive Communications and Networking
+            </li>
+            <li class="paper">
+                IEEE Internet of Things Journal
+            </li>
+            <li class="paper">
+                IEEE Sensors Journal
+            </li>
+            <li class="paper">
+                IEEE Wireless Communications Letters
+            </li>
+            <li class="paper">
+                IEEE Communications Letters
+            </li>
+        </ul>
+    </div>
+    
+
+
+</body>
+
+</html>
